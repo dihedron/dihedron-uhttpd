@@ -1,7 +1,7 @@
-dihedron-commons
+dihedron-uhttpd
 ================
 
-This project contains a set of common utilities which can be (re-)used across
-Java projects. Some utilities help circumvent problems with the Java6 API, 
-some others try to make the use of certain Java features easier, and some 
-provide a basic set of more complex functionalities (called "patterns").
+This project contains a micro web-container; it purpose s to provide an
+extermely lightweight HTTP protocol interpreter, to be used whenever an
+application needs to provide web resources without being encumbered by 
+massive "pro" web containers.
